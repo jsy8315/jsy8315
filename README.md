@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Jung Su - young, a passionate developer based in GwangMyeong. Here's a glimpse into my journey so far:
+I'm Jung Su - young, a passionate developer based in GwangMyeong, South Korea. Here's a glimpse into my journey so far:
 
 ## Education
 - Gwangmyeong Convergence Technology campus of Korea Polytechnic (Participated in the Hana TI recruitment-linked education program) (2023.03 ~ 2023.11)
