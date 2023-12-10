@@ -15,6 +15,9 @@ I'm Jung Su - young, a passionate developer based in GwangMyeong. Here's a glimp
 ## Tech Stack
 - Proficient in Java, Python, SpringBoot, MySQL
 
+## PS tier
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=swimmmmming)](https://solved.ac/swimmmmming)
+
 Feel free to explore my repositories for more projects and contributions. If you have any questions or exciting collaboration opportunities, feel free to reach out!
 
 Happy coding! 🚀
