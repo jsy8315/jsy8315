@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**jsy8315/jsy8315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jung Su - young, a passionate developer based in GwangMyeong. Here's a glimpse into my journey so far:
 
-Here are some ideas to get you started:
+## Education
+- Gwangmyeong Convergence Technology campus of Korea Polytechnic (Participated in the Hana TI recruitment-linked education program) (2023.03 ~ 2023.11)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience
+- Software Engineer at Hana TI (2023.11 ~ )
+
+## Project
+- **"Effortless Insurance Processing"**
+  - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing. (2023.09 ~ 2023.10)
+
+## Tech Stack
+- Proficient in Java, Python, SpringBoot, MySQL
+
+Feel free to explore my repositories for more projects and contributions. If you have any questions or exciting collaboration opportunities, feel free to reach out!
+
+Happy coding! 🚀
+
