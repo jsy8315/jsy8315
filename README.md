@@ -13,7 +13,7 @@ I'm Jung Su - young, a passionate developer based in GwangMyeong, South Korea. H
   - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing. (2023.09 ~ 2023.10)
 
 ## Tech Stack
-- Proficient in Java, Python, SpringBoot, MySQL
+- Proficient in Java, Javascript, Python, SpringBoot, Oracle SQL
 
 ## PS tier
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=swimmmmming)](https://solved.ac/swimmmmming)
