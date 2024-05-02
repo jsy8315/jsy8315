@@ -17,7 +17,7 @@
 ## Tech Stack
 - Proficient in Java, Javascript, Python, SpringBoot, Oracle SQL
 
-자유롭게 살펴보시고 더 많은 프로젝트와 기여를 확인해보세요. 궁금한 점이나 흥미로운 협업 기회가 있다면 언제든지 연락해 주세요!
+자유롭게 살펴보시고 더 많은 프로젝트와 기여를 확인해보세요. 궁금한 점이나 흥미로운 협업 기회가 있다면 언제든지 연락주세요!
 
 Happy coding! 🚀✈️
 
