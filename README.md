@@ -15,7 +15,7 @@
   - 사용자 건강정보를 기반으로 7대 질환의 위험도를 예측하고, 고위험 질병군에 대한 보험 추천. 또한 보험 청구, 심사의 자동화로 보험사 효율을 높이는 웹 프로젝트를 진행 
 
 ## Tech Stack
-- Proficient in Java, Javascript, Python, SpringBoot, Oracle SQL
+- Proficient in HTML, CSS, Javascript, React
 
 자유롭게 살펴보시고 더 많은 프로젝트와 기여를 확인해보세요. 궁금한 점이나 흥미로운 협업 기회가 있다면 언제든지 연락주세요!
 
