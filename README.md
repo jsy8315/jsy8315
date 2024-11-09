@@ -15,7 +15,6 @@
   - 사용자 건강정보를 기반으로 7대 질환의 위험도를 예측하고, 고위험 질병군에 대한 보험 추천. 또한 보험 청구, 심사의 자동화로 보험사 효율을 높이는 웹 프로젝트를 진행 
 
 ## Tech Stack
-- Proficient in HTML, CSS, Javascript, React
 -   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   
 
