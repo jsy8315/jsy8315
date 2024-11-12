@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello,%20I%20am%20Suyoung&fontSize=90)
 
-I'm Jung Su - young,  a front-end developer who is interested in realizing business value. And based in GwangMyeong, South Korea. Here's a glimpse into my journey so far:
-
-## Portfolio
+<center>I'm Jung Su - young,  a front-end developer who is interested in realizing business value. Here's a glimpse into my journey so far: </center>
+<center>
+## Porfolio<br>
 http://jungsuyoung.com
 
 ## Contributions
@@ -36,4 +36,7 @@ http://jungsuyoung.com
 Feel free to explore my repositories for more projects and contributions. If you have any questions or exciting collaboration opportunities, feel free to reach out!
 
 Happy coding! 🚀✈️
+</center>
+
+
 
