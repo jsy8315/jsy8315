@@ -11,20 +11,20 @@ http://jungsuyoung.com/
 
 
 ## Work Experience
-- Hana TI (2023.11 ~ 2024.08)
+- Hana TI (Nov 2023 - Aug 2024)
   - Infrastructure Engineer, Hana Bank Infrastructure Maintenance Officer
 
 
 ## Project
-- **"Effortless Insurance Processing"**
-  - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing. (2023.09 ~ 2023.10)
+- Graduation products : **"Effortless Insurance Processing"**
+  - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing. 
 
   
 ## Education
 - Gwangmyeong Convergence Technology campus of Korea Polytechnic (Nov 2023)
   - Participated in the Hana TI recruitment-linked education program
  
-- Catholic university (Feb 2023)
+- The Catholic University of Korea (Feb 2023)
   - Bachelor of Science in Nursing
 
 
