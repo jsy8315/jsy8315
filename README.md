@@ -16,7 +16,7 @@ http://jungsuyoung.com/
 
 
 ## Project
-- Graduation products : **"Effortless Insurance Processing"**
+- Graduation product : **"Effortless Insurance Processing"**
   - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing. 
 
   
@@ -25,7 +25,7 @@ http://jungsuyoung.com/
   - Participated in the Hana TI recruitment-linked education program
  
 - The Catholic University of Korea (Feb 2023)
-  - Bachelor of Science in Nursing
+  - Bachelor of Science in Nursing
 
 
 ## PS tier
