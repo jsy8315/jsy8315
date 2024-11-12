@@ -5,6 +5,7 @@ I'm Jung Su - young,  a front-end developer who is interested in realizing busin
 ## Portfolio
 http://jungsuyoung.com
 
+## Contributions
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 ## Tech Stack
