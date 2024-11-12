@@ -8,7 +8,7 @@
 
 ## 경력
 - 하나금융TI (2023.11 ~ 2024.08)
-    인프라 엔지니어, 하나은행 인프라 유지보수 담당
+  - 인프라 엔지니어, 하나은행 인프라 유지보수 담당
 
 ## 프로젝트
 - **"광명융합기술교육원 졸업 프로젝트 : 가입, 심사, 청구까지 빠르게 한번에 원큐보험"** (2023.09 ~ 2023.10)
@@ -32,7 +32,7 @@ I'm Jung Su - young, a passionate developer based in GwangMyeong, South Korea. H
 
 ## Work Experience
 - Software Engineer at Hana TI (2023.11 ~ 2024.08)
-    Infrastructure Engineer, Hana Bank Infrastructure Maintenance Officer
+  - Infrastructure Engineer, Hana Bank Infrastructure Maintenance Officer
 
 ## Project
 - **"Effortless Insurance Processing"**
