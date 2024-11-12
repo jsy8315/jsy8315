@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello,%20I%20am%20Suyoung&fontColor=fdfefe&fontSize=90)
 
-### I'm Jung Suyoung,  a front-end developer who is interested in realizing business value.
-Portfolio :  http://jungsuyoung.com
+### Hello🖐 I'm Jung Suyoung, a front-end developer who is interested in realizing business value.
+🗂️ Portfolio : http://jungsuyoung.com
 
 
 ## Contributions
@@ -28,10 +28,10 @@ Portfolio :  http://jungsuyoung.com
 - The Catholic University of Korea (Feb 2023)
   - Bachelor of Science in Nursing
 
-
+<!--
 ## PS tier
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=swimmmmming)](https://solved.ac/swimmmmming)
-
+-->
 Feel free to explore my repositories for more projects and contributions. If you have any questions or exciting collaboration opportunities, feel free to reach out!
 
 Happy coding! 🚀✈️
