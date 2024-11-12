@@ -21,7 +21,11 @@ http://jungsuyoung.com/
 
   
 ## Education
-- Gwangmyeong Convergence Technology campus of Korea Polytechnic (Participated in the Hana TI recruitment-linked education program) (2023.03 ~ 2023.11)
+- Gwangmyeong Convergence Technology campus of Korea Polytechnic (Nov 2023)
+  - Participated in the Hana TI recruitment-linked education program
+ 
+- Catholic university (Feb 2023)
+  - Bachelor of Science in Nursing
 
 
 ## PS tier
