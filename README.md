@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello,%20I%20am%20Suyoung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello,%20I%20am%20Suyoung&fontColor=fdfefe&fontSize=90)
 
-I'm Jung Su - young,  a front-end developer who is interested in realizing business value. <br>
+I'm Jung Suyoung,  a front-end developer who is interested in realizing business value. <br>
 Portfolio http://jungsuyoung.com
 
 
