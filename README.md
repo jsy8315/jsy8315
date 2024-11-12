@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello,%20I%20am%20Suyoung&fontSize=90)
 
-I'm Jung Su - young,  a front-end developer who is interested in realizing business value. Here's a glimpse into my journey so far: 
- 
-## Porfolio<br>
-http://jungsuyoung.com
+I'm Jung Su - young,  a front-end developer who is interested in realizing business value. <br>
+Portfolio http://jungsuyoung.com
+
 
 ## Contributions
 ![](./profile-3d-contrib/profile-gitblock.svg)
