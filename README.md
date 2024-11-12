@@ -3,7 +3,7 @@
 I'm Jung Su - young,  a front-end developer who is interested in realizing business value. And based in GwangMyeong, South Korea. Here's a glimpse into my journey so far:
 
 ## Portfolio
-http://jungsuyoung.com/
+http://jungsuyoung.com
 
 
 ## Tech Stack
