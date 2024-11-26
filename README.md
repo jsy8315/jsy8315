@@ -24,7 +24,8 @@
 
 - Graduation product : **"Effortless Insurance Processing"**
   - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing.
-  - Spingboot, Java, AWS
+  - https://github.com/jsy8315/1Q_Insurance
+  - Spingboot, Java, HTML, CSS, Javascript, Oracle DBMS
 
   
 ## Education
