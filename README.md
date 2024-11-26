@@ -2,7 +2,7 @@
 
 ### Hello🖐 I'm Jung Suyoung, a front-end developer who is interested in realizing business value.
 #### 🗂️ Portfolio [jungsuyoung.com](http://jungsuyoung.com)
-
+#### 🗂️ Resume [Resume](https://www.notion.so/Walker-13d94cea3cfc80c59f12e90c8b1a87c3)
 
 ## Contributions
 ![](./profile-3d-contrib/profile-night-green.svg)
@@ -23,7 +23,8 @@
   - HTML, CSS, Javascript, AWS S3
 
 - Graduation product : **"Effortless Insurance Processing"**
-  - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing. 
+  - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing.
+  - Spingboot, Java, AWS
 
   
 ## Education
