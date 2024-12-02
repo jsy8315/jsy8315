@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello,%20I%20am%20Suyoung&fontColor=fdfefe&fontSize=90)
 
 ### Hello🖐 I'm Jung Suyoung, a front-end developer who is interested in realizing business value.
-#### 🗂️ Portfolio [jungsuyoung.com](https://www.jungsuyoung.com/)
+#### 🗂️ Portfolio [www.jungsuyoung.com](https://www.jungsuyoung.com/)
 #### 🗂️ Resume [Resume](https://www.notion.so/Walker-13d94cea3cfc80c59f12e90c8b1a87c3)
 
 ## Contributions
