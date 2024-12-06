@@ -19,13 +19,13 @@
 ## Project
 - Devlog & Portfolio site
   - created a portfolio site and blog with vanilla JavaScript
-  - [https://www.jungsuyoung.com/](https://www.jungsuyoung.com/)
   - HTML, CSS, Javascript, AWS S3
+  - [https://www.jungsuyoung.com/](https://www.jungsuyoung.com/)
 
 - Graduation product : **"Effortless Insurance Processing"**
   - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing.
-  - https://github.com/jsy8315/1Q_Insurance
   - Spingboot, Java, HTML, CSS, Javascript, Oracle DBMS
+  - https://github.com/jsy8315/1Q_Insurance
 
   
 ## Education
