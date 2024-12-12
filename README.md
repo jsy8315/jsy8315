@@ -20,7 +20,7 @@
 - Devlog & Portfolio site (Oct 2024)
   - created a portfolio site and blog with vanilla JavaScript
   - HTML, CSS, Javascript, AWS S3, CloudFront
-  - [https://www.jungsuyoung.com/](https://www.jungsuyoung.com/)
+  - [https://www.jungsuyoung.com/](https://www.jungsuyoung.com)
 
 - Graduation product : **"Effortless Insurance Processing"** (Oct 2023)
   - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing.
