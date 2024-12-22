@@ -12,7 +12,7 @@
 
 
 ## Work Experience
-- **Hana TI** (Nov 2023 - Aug 2024)
+- **Hana TI** (Nov 2023 - Aug 2024 )
   - Infrastructure Engineer, Hana Bank Infrastructure Maintenance Officer
 
 
