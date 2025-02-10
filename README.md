@@ -19,7 +19,7 @@
 
 
 ## Project
-- **TardyTracker** (Feb 2025**)
+- **TardyTracker** (Feb 2025*)
   - Cross-Platform App for Group User Appointment Time Tracking & Arrival Verification
   - ReactNative, Typescript, Redux, Websocket
   - Scheduled for Release: February 2025
