@@ -19,6 +19,11 @@
 
 
 ## Project
+- **TardyTracker** (Feb 2025**)
+  - Cross-Platform App for Group User Appointment Time Tracking & Arrival Verification
+  - ReactNative, Typescript, Redux, Websocket
+  - Scheduled for Release: February 2025
+
 - **Tech Blog** (Jan 2025)
   - Tech blog for knowledge sharing such as CS knowledge, algorithms, project issue resolution, etc
   - HTML, CSS, Javascript, React, NextJS, AWS S3, MongoDB
