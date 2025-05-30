@@ -10,7 +10,7 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,reactnative,next,framer,figma)](https://skillicons.dev)
 
 ## Work Experience
 - **Hana TI** (Nov 2023 - Aug 2024)
