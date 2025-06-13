@@ -6,8 +6,6 @@
 #### 🗂️ Techblog [https://walkersdevlog.vercel.app/](https://walkersdevlog.vercel.app/)
 
 
-## Contributions
-![](./profile-3d-contrib/profile-night-green.svg)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,figma)](https://skillicons.dev)
