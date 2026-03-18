@@ -2,8 +2,8 @@
 
 ### Hello🖐 I'm Suyoung Jung, a front-end developer who is interested in realizing business value.
 #### 🗂️ Portfolio [www.jungsuyoung.com](https://www.jungsuyoung.com)
-#### 🗂️ Resume [Resume](https://www.notion.so/Walker-13d94cea3cfc80c59f12e90c8b1a87c3)
-#### 🗂️ Techblog [https://walkersdevlog.vercel.app/](https://walkersdevlog.vercel.app/)
+-- 🗂️ Resume [Resume](https://www.notion.so/Walker-13d94cea3cfc80c59f12e90c8b1a87c3)
+-- 🗂️ Techblog [https://walkersdevlog.vercel.app/](https://walkersdevlog.vercel.app/)
 
 
 
@@ -11,8 +11,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,figma)](https://skillicons.dev)
 
 ## Work Experience
-- **Hana TI** (Nov 2023 - Aug 2024)
-  - Infrastructure Engineer, Hana Bank Infrastructure Maintenance Officer 
+- **반장창고** (2025.04 - 현재)
+  - B2B 인테리어 자재 플랫폼 <반장창고> 운영 및 기능 개발
+  - B2C 인테리어 샘플 배송 플랫폼 <샘플창고> 런칭 수행
+- **하나금융TI** (2023.11 - 2024.08)
+  - 하나은행 VM 및 인프라 유지보수 업무 수행
 
 
 ## Project
