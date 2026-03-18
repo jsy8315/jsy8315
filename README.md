@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello,%20I%20am%20Suyoung&fontColor=fdfefe&fontSize=90)
 
-### Hello🖐 I'm Suyoung Jung, a front-end developer who is interested in realizing business value.
-#### 🗂️ Portfolio [www.jungsuyoung.com](https://www.jungsuyoung.com)
--- 🗂️ Resume [Resume](https://www.notion.so/Walker-13d94cea3cfc80c59f12e90c8b1a87c3)
--- 🗂️ Techblog [https://walkersdevlog.vercel.app/](https://walkersdevlog.vercel.app/)
+### 프론트엔드 개발자 | 효율적인 컴포넌트 구현과 조직 친화적인 설계에 관심이 많습니다.
+#### (리뉴얼 중)🗂️ Portfolio [www.jungsuyoung.com](https://www.jungsuyoung.com) 
+<!-- 🗂️ Resume [Resume](https://www.notion.so/Walker-13d94cea3cfc80c59f12e90c8b1a87c3) -->
+<!-- 🗂️ Techblog [https://walkersdevlog.vercel.app/](https://walkersdevlog.vercel.app/) -->
 
 
 
@@ -18,7 +18,7 @@
   - 하나은행 VM 및 인프라 유지보수 업무 수행
 
 
-## Project
+<!-- ## Project
 - **TardyTracker** (Feb 2025*)
   - Cross-Platform App for Group User Appointment Time Tracking & Arrival Verification
   - ReactNative, Typescript, Redux, Websocket
@@ -38,14 +38,14 @@
   - Developed an end-to-end solution for seamless insurance processes, covering sign-up, assessment, and billing.
   - Spingboot, Java, HTML, CSS, Javascript, Oracle DBMS
   - https://github.com/jsy8315/1Q_Insurance
-
+-->
   
 ## Education
-- Gwangmyeong Convergence Technology campus of Korea Polytechnic (Nov 2023)
-  - Participated in the Hana TI recruitment-linked education program
+- **광명융합기술교육원** (2023.03 - 2023.11)
+  - 하나금융TI 채용연계 과정
  
-- The Catholic University of Korea (Feb 2023)
-  - Bachelor of Science in Nursing
+- **가톨릭대학교** (2019.03 - 2023.02)
+  - 간호학과 졸업
 
 <!--
 ## PS tier
