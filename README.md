@@ -43,7 +43,7 @@
   
 ## Education
 - **2026 오픈소스 컨트리뷰션 아카데미** (2026.07 - 현재)
-  - Chromium 과정 멘티 참여 중 (https://www.contribution.ac/2026ossca)
+  - Chromium 오픈소스 기여 중
     
 - **광명융합기술교육원** (2023.03 - 2023.11)
   - 웹개발 교육 과정
