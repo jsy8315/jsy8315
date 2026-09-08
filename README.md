@@ -19,7 +19,6 @@
   - 하나은행 인프라 유지보수 및 SI 업무 수행
 
 - **오픈소스 Chromium** (2026.07 - )
-  - 2026 오픈소스 컨트리뷰션 아카데미 참여로 시작
   - Chrome DevTools 타입 안정성 개선 — `@ts-expect-error` 제거 및 타입 단언 도입 (TypeScript)
   - crypto API 마이그레이션 `crypto/sha2` → `crypto/hash` (C++, https://crrev.com/c/8255452)
   - 빌드 문서 링크 오류 수정 (https://crrev.com/c/8146220)
