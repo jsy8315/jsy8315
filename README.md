@@ -11,17 +11,19 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,figma)](https://skillicons.dev)
 
 ## Work Experience
-- **반장창고** (2025.04 - 현재)
+- **반장창고** (2025.04 - )
   - B2B 인테리어 자재 플랫폼 <반장창고> 운영 및 기능 개발 (https://landing.bjchango.com/)
   - B2C 인테리어 샘플 배송 플랫폼 <샘플창고> 런칭 수행 (https://sample.bjchango.com/)
 
 - **하나금융TI** (2023.11 - 2024.08)
-  - 하나은행 인프라 유지보수 및 SI 업무 수행
+  - 하나은행 IT 유지보수 및 SI 업무 수행
 
 - **오픈소스 Chromium** (2026.07 - )
-  - Chrome DevTools 타입 안정성 개선 — `@ts-expect-error` 제거 및 타입 단언 도입 (TypeScript)
-  - crypto API 마이그레이션 `crypto/sha2` → `crypto/hash` (C++, https://crrev.com/c/8255452)
-  - 빌드 문서 링크 오류 수정 (https://crrev.com/c/8146220)
+  - BitReader의 deprecated pointer/size 생성자 제거 및 base::span<const uint8_t> 기반 API로 마이그레이션
+  - H264Parser deprecated overload 제거 및 호출부 마이그레이션
+  - Chrome DevTools 타입 안정성 개선 — `@ts-expect-error` 제거 및 타입 단언 도입
+  - crypto API 마이그레이션 `crypto/sha2` → `crypto/hash`
+  - 빌드 문서 링크 오류 수정
 
 
 <!-- ## Project
